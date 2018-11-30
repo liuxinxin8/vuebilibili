@@ -6,7 +6,7 @@
   "data": {
     "MovieDetailModel": {
       "video":"http://video.pearvideo.com/mp4/short/20181109/cont-1472459-13213822-hd.mp4",
-      "tu":"/static/img/tu1.jpg",
+      "tu":"./static/img/tu1.jpg",
       "zz":"梨小瓜",
       "fs":"3.8万", 
       "tit":"影视剧十幕经典告白，单身狗已虐哭",

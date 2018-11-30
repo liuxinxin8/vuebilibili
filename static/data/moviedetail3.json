@@ -6,7 +6,7 @@
   "data": {
     "MovieDetailModel": {
       "video":"http://video.pearvideo.com/mp4/adshort/20181109/cont-1473458-13213541_adpkg-ad_sd.mp4",
-      "tu":"/static/img/tu1.jpg",
+      "tu":"./static/img/tu1.jpg",
       "zz":"瞎盘点",
       "fs":"415353",
       "tit":"影视剧虐心分手：我们单身但也爱过",
