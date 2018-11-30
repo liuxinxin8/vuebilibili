@@ -1,0 +1,68 @@
+{
+  "control": {
+    "expires": 3600
+  },
+  "status": 0,
+  "data": {
+    "MovieDetailModel": {
+      "video":"http://video.pearvideo.com/mp4/third/20181129/cont-1484216-11107897-164453-hd.mp4",
+      "tu":"./static/img/tu1.jpg",
+      "zz":"harlity",
+      "fs":"20513",
+      "tit":"【小丑/节奏】希斯莱杰版小丑高燃踩点，2分钟内圈不了粉算我输！",
+      "bfl":"56523",
+      "pj":"1211",
+      "data":"2017-05-07",
+      "msg":"BGM：This is the new shit -- Marilyn Manson每个人脑里都装着定时炸弹，只是缺一个点火的人。小丑把玩着火柴，高谭陷落。希斯一个人闷在房间，手中翻着小丑日记，一遍遍和自己对话。拍戏的时候他是小丑，休息的时候他是小丑，杀青后他在末页写上BYEBYE，却再也没有从小丑的世界走出来。",
+      "dz":"2014",
+      "cp":"5",
+      "bb":"45432",
+      "sc":"4354325",
+      "zf":"5432"
+    },
+    "MovieDetailBtn":[{
+      "msg":"希斯莱杰"
+    },{
+      "msg":"黑暗骑士"
+    },{
+      "msg":"超级英雄"
+    },{
+      "msg":"玛丽莲曼森"
+    },{
+      "msg":"丑爷"
+    },{
+      "msg":"蝙蝠侠"
+    }],
+    "MovieDetailList":[{
+      "img":"./static/img/content_list1.jpg",
+      "tit":"[希斯莱杰·莱托·杰罗姆·老杰克小丑爆燃混剪]疯子...",
+      "zz":"GREAT_酸奶",
+      "bfl":"56.5万",
+      "pj":"1435"
+    },{
+      "img":"./static/img/content_list2.jpg",
+      "tit":"[致敬经典]希斯莱杰小丑：我不杀你，只是因为...",
+      "zz":"可乐",
+      "bfl":"25.9万",
+      "pj":"4435"
+    },{
+      "img":"./static/img/content_list3.jpg",
+      "tit":"[天赋异禀]万磁王女儿北极星惊艳混剪",
+      "zz":"GREAT布丁",
+      "bfl":"22.5万",
+      "pj":"15435"
+    },{
+      "img":"./static/img/content_list4.jpg",
+      "tit":"[欧美女神混剪]好莱坞战斗女神--勇气永不凋谢...",
+      "zz":"GREAT_酸辣粉",
+      "bfl":"178.5万",
+      "pj":"9853"
+    },{
+      "img":"./static/img/content_list5.jpg",
+      "tit":"在压力面前保持优雅[杰罗姆]",
+      "zz":"LH_麻辣烫",
+      "bfl":"63.5万",
+      "pj":"7235"
+    }]
+  }
+}
