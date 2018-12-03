@@ -6,14 +6,14 @@
   "data": {
     "MovieDetailModel": {
       "video":"http://video.pearvideo.com/mp4/adshort/20181109/cont-1473458-13213541_adpkg-ad_sd.mp4",
-      "tu":"https://tvax2.sinaimg.cn/crop.0.0.996.996.180/d7f7faddly8fhx8l3fuiuj20ro0rojtn.jpg",
+      "tu":"https://tvax4.sinaimg.cn/crop.0.0.1242.1242.180/0065K79ily8fnev4t6m8wj30yi0yi0vo.jpg",
       "zz":"瞎盘点",
       "fs":"415353",
-      "tit":"影视剧虐心分手：我们单身但也爱过",
+      "tit":"【前方高能】蹦极受到啥待遇取决你的态度",
       "bfl":"242455",
       "pj":"121134",
       "data":"2017-05-09",
-      "msg":"搞笑系列所有作品已分类，大家可以从up的收藏夹里观看之前的品。如果大家有更搞笑的视频欢迎在评论区下方留言，或者私信up视频一经录用up会在视频的最后署名推荐人，谢谢大家的支持。",
+      "msg":"蹦极受到啥待遇取决你的态度",
       "dz":"2017",
       "cp":"1",
       "bb":"6532",
@@ -21,17 +21,17 @@
       "zf":"5432"
     },
     "MovieDetailBtn":[{
-      "msg":"剪辑"
+      "msg":"视频"
     },{
       "msg":"搞笑"
     },{
       "msg":"国产"
     },{
-      "msg":"影视剪影"
+      "msg":"实际"
     },{
       "msg":"经典"
     },{
-      "msg":"电影"
+      "msg":"生活"
     }],
     "MovieDetailList":[{
       "img":"./static/img/live/data3-1.jpg",

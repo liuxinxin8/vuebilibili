@@ -73,10 +73,34 @@
           "nm":"分享"
        },{
         "id":12,
-        "src":"https://i0.hdslb.com/bfs/live/cbaf59f3d402df67fffe2865abd39dbd24a8bec5.jpg",
+        "src":"./static/img/index_list11.jpg",
         "msg":"有钱不会玩的神器傻子玩家",
         "btn":"游戏",
         "nm":"分享"
-     }]
-  }
+     },{
+      "id":13,
+      "src":"./static/img/live/list6.jpg",
+      "msg":"毒奶泓希毒奶泓希毒奶泓希毒奶泓希",
+      "btn":"游戏",
+      "nm":"分享"
+   },{
+    "id":14,
+    "src":"./static/img/live/list8.jpg",
+    "msg":"五胜幻影轮抽！冲！抽门票！",
+    "btn":"游戏",
+    "nm":"分享"
+ },{
+  "id":15,
+  "src":"./static/img/live/list10.jpg",
+  "msg":"荒野大表姐ol：最美捏脸女牛仔",
+  "btn":"游戏",
+  "nm":"分享"
+},{
+  "id":16,
+  "src":"./static/img/live/list14.jpg",
+  "msg":"【第五人格】人皇培训室",
+  "btn":"游戏",
+  "nm":"分享"
+}]
+}
 }
